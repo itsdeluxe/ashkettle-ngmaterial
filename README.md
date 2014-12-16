@@ -12,7 +12,7 @@ I take no credit in any of the fine work that went into this project.
 Use
 ---
 
-Add the package with meteor add ashkettle:ngmeteor
+Add the package with meteor add ashkettle:ngmaterial
 
 Add a reference to the library in your module angular.module('blog',['angular-meteor','ngMaterial']);
 
