@@ -7,6 +7,10 @@
     [
       "underscore",
       "1.0.1"
+    ],
+    [
+      "urigo:angular",
+      "0.5.10"
     ]
   ],
   "pluginDependencies": [],
