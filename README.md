@@ -4,10 +4,11 @@ Intro
 This package provides an easy way to implement [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 components in your Meteor apps which utilize Angular.
 
-This is simply a wrapper around [Angular Material Design](https://material.angularjs.org/#/) and will work with any package providing Angular functionality with meteor, for example the excellent [Package by Urigo](http://angularjs.meteor.com/).
+This is simply a wrapper around [Angular Material Design](https://material.angularjs.org/#/) and will work with   the excellent [Package by Urigo](http://angularjs.meteor.com/) which provides Angular functionality to meteor.
 
 I take no credit in any of the fine work that went into this project.
 
+I have updated to use the current stable 0.6.1 version and am now pointing to the CDN for everything included within it.  Later versions are a bit too bleeding edge for production.
 
 Use
 ---
