@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ashkettle:ngmaterial',
   summary: ' A package to add Material Design to Angular ',
-  version: '1.0.0',
+  version: '1.1.0',
   git: 'https://github.com/Ashkettle/ashkettle-ngmaterial.git'
 });
 
