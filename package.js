@@ -1,14 +1,18 @@
 Package.describe({
   name: 'ashkettle:ngmaterial',
   summary: ' A package to add Material Design to Angular ',
-  version: '1.1.0',
+  version: '1.1.2',
   git: 'https://github.com/Ashkettle/ashkettle-ngmaterial.git'
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   //JS Files
-  api.addFiles('angular-material.html', 'client');
+  api.addFiles('angular-material.min.css', 'client');
+  api.addFiles('hammer.min.js', 'client');
+  api.addFiles('angular-animate.min.js', 'client');
+  api.addFiles('angular-aria.min.js', 'client');
+  api.addFiles('angular-material.min.js', 'client');
 
 
 
