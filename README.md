@@ -8,7 +8,7 @@ This is simply a wrapper around [Angular Material Design](https://material.angul
 
 I take no credit in any of the fine work that went into this project.
 
-I have updated to use the current stable 0.6.1 version and am now pointing to the CDN for everything included within it.  Later versions are a bit too bleeding edge for production.
+I have updated to use the current stable 0.6.1 version.  Later versions are a bit too bleeding edge for production.
 
 Use
 ---
