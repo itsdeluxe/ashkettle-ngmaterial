@@ -8,8 +8,9 @@ This is simply a wrapper around [Angular Material Design](https://material.angul
 
 I take no credit in any of the fine work that went into this project.
 
-This fork updates to 0.7.0
-//I have updated to use the current stable 0.6.1 version.  Later versions are a bit too bleeding edge for production.
+
+*This fork updates to 0.7.0
+I have updated to use the current stable 0.6.1 version.  Later versions are a bit too bleeding edge for production.
 
 Use
 ---
